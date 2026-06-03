@@ -155,8 +155,8 @@
 
 <div align="center">
 
-<img src="https://gh-stats-senasliturk.vercel.app/api?username=senasliturk&show_icons=true&theme=transparent&hide_border=true&title_color=b06ef7&icon_color=ec4899&text_color=888888&ring_color=b06ef7&count_private=true" height="160" />
-<img src="https://gh-stats-senasliturk.vercel.app/api/top-langs/?username=senasliturk&layout=compact&theme=transparent&hide_border=true&title_color=b06ef7&text_color=888888&langs_count=6" height="160" />
+<img src="https://github-readme-stats-phi-henna-35.vercel.app/api?username=senasliturk&show_icons=true&theme=transparent&hide_border=true&title_color=b06ef7&icon_color=ec4899&text_color=888888&ring_color=b06ef7&count_private=true" />
+<img src="https://github-readme-stats-phi-henna-35.vercel.app/api/top-langs/?username=senasliturk&layout=compact&theme=transparent&hide_border=true&title_color=b06ef7&text_color=888888&langs_count=6" />
 
 <br/>
 
