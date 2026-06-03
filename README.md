@@ -27,11 +27,10 @@
 
 <table>
 <tr>
-<td width="75%">
+<td width="100%">
 
 <img src="./terminal (1).svg" alt="terminal" />
 </td>
-<td width="25%" align="center" valign="top">
 
 </td>
 </tr>
