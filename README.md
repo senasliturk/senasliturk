@@ -33,8 +33,6 @@
 </td>
 <td width="25%" align="center" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=300&color=FFE000&center=true&vCenter=true&width=120&height=180&lines=ᗧ·····ᗣ;+ᗧ····ᗣ;++ᗧ···ᗣ;+++ᗧ··ᗣ;++++ᗧ·ᗣ;+++++ᗧᗣ;nom!;+++++ᗤᗣ;++++ᗤ·ᗣ;+++ᗤ··ᗣ;++ᗤ···ᗣ;+ᗤ····ᗣ;ᗤ·····ᗣ" alt="pacman" />
-
 </td>
 </tr>
 </table>
