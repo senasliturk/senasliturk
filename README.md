@@ -22,15 +22,14 @@
 ---
 <!-- terminal about me with pacman -->
 
-###  About Me
+
+### About Me
 
 <table>
 <tr>
 <td width="75%">
 
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=500&color=39FF14&multiline=true&width=500&height=260&lines=Last+login%3A+today+on+ttys001;sena%40Mac+~+%25+whoami;+;++role++++++%E2%86%92+junior+software+engineer;++location++%E2%86%92+%C4%B0zmir+%F0%9F%87%B9%F0%9F%87%B7;++focus+++++%E2%86%92+LLM+apps+%C2%B7+AI+agents+%C2%B7+MCP;++stack+++++%E2%86%92+Python+%C2%B7+OpenAI+%C2%B7+FastAPI;++currently+%E2%86%92+building+%26+breaking+things+%F0%9F%94%A7;+;sena%40Mac+~+%25+cat+interests.txt;+;++%F0%9F%A4%96+llm+apps+%26+ai+agents;++%F0%9F%A7%A9+hackathon%E2%80%99lara+katılmak;++%F0%9F%9A%80+mcp+server+kurmak" alt="terminal" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=500&color=39FF14&multiline=true&width=500&height=260&lines=Last+login%3A+today+on+ttys001;sena%40Mac+~+%25+whoami;+;++role++++++%E2%86%92+junior+software+engineer;++location++%E2%86%92+%C4%B0zmir+%F0%9F%87%B9%F0%9F%87%B7;++focus+++++%E2%86%92+LLM+apps+%C2%B7+AI+agents+%C2%B7+MCP;++stack+++++%E2%86%92+Python+%C2%B7+OpenAI+%C2%B7+FastAPI;++currently+%E2%86%92+building+%26+breaking+things+%F0%9F%94%A7;+;sena%40Mac+~+%25+cat+interests.txt;+;++%F0%9F%A4%96+Oyunlar;++%F0%9F%A7%A9+hackathon%27lara+katilmak;++%F0%9F%9A%80+Yeni+projeler+yapmak" alt="terminal" />
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -161,12 +160,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=senasliturk&show_icons=true&theme=tokyonight&hide_border=true&title_color=b06ef7&icon_color=ec4899&bg_color=0d1117&text_color=c9d1d9&ring_color=b06ef7&count_private=true&cache_seconds=1800" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senasliturk&layout=compact&theme=tokyonight&hide_border=true&title_color=b06ef7&bg_color=0d1117&text_color=c9d1d9&langs_count=6&cache_seconds=1800" height="160" />
+<img src="https://gh-stats-senasliturk.vercel.app/api?username=senasliturk&show_icons=true&theme=transparent&hide_border=true&title_color=b06ef7&icon_color=ec4899&text_color=888888&ring_color=b06ef7&count_private=true" height="160" />
+<img src="https://gh-stats-senasliturk.vercel.app/api/top-langs/?username=senasliturk&layout=compact&theme=transparent&hide_border=true&title_color=b06ef7&text_color=888888&langs_count=6" height="160" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=senasliturk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=b06ef7&fire=ec4899&currStreakLabel=b06ef7" />
+<img src="https://streak-stats.demolab.com?user=senasliturk&theme=transparent&hide_border=true&ring=b06ef7&fire=ec4899&currStreakLabel=b06ef7&sideLabels=888888&dates=888888&stroke=b06ef7" />
 
 <br/><br/>
 
