@@ -164,7 +164,6 @@
 
 <br/><br/>
 
-<img src="https://github-profile-3d-contrib.vercel.app/api/index?username=senasliturk&theme=purple_dark" width="100%"/>
 
 </div>
 
