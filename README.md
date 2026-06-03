@@ -29,8 +29,7 @@
 <tr>
 <td width="75%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=500&color=39FF14&multiline=true&width=500&height=260&lines=Last+login%3A+today;sena%40Mac+~+%25+Who_am_I;+;++role++++++%E2%86%92+Junior+Software+Engineer;++Focus+++++%E2%86%92+LLM+apps+%C2%B7+AI+agents+%C2%B7+MCP;++stack+++++%E2%86%92+Python+%C2%B7+OpenAI+%C2%B7+FastAPI;++Currently+%E2%86%92+building+%26+breaking+things+%F0%9F%94%A7;+;sena%40Mac+~+%25+cat+interests.txt;+;++%F0%9F%A4%96+Oyunlar;++%F0%9F%A7%A9+Hackathon%27lara+katilmak;++%F0%9F%9A%80+Yeni+projeler+yapmak" alt="terminal" />
-
+<img src="./terminal (1).svg" alt="terminal" />
 </td>
 <td width="25%" align="center" valign="top">
 
