@@ -36,11 +36,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=300&color=FFE000&center=true&vCenter=true&width=120&height=180&lines=ᗧ·····ᗣ;+ᗧ····ᗣ;++ᗧ···ᗣ;+++ᗧ··ᗣ;++++ᗧ·ᗣ;+++++ᗧᗣ;nom!;+++++ᗤᗣ;++++ᗤ·ᗣ;+++ᗤ··ᗣ;++ᗤ···ᗣ;+ᗤ····ᗣ;ᗤ·····ᗣ" alt="pacman" />
 
-<br/>
-<img src="https://img.shields.io/badge/caffeine-powered-ec4899?style=flat&logo=coffeescript&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/bugs-feature-7c3aed?style=flat"/>
-
 </td>
 </tr>
 </table>
