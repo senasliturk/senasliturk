@@ -7,10 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/junior%20software%20engineer-7c3aed?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ai%20engineering-ec4899?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/📍%20İzmir-1e1e2e?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/open%20to%20work-22c55e?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Junior%20Software%20Engineer-7c3aed?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-ec4899?style=flat&logoColor=white"/>
 </p>
 
 <p align="center">
