@@ -2,87 +2,188 @@
 <!-- animated header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=B06EF7&center=true&vCenter=true&width=600&lines=hi%2C+i'm+sena+%F0%9F%91%8B;ai+engineer+in+progress;building+llm+apps+%26+agents;always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B06EF7&center=true&vCenter=true&width=700&lines=hi%2C+i'm+sena+%F0%9F%91%8B;junior+software+engineer;ai+engineer+in+progress;building+llm+apps+%26+agents" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/software%20engineering%20graduate-a855f7?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/junior%20software%20engineer-7c3aed?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/ai%20engineering-ec4899?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/open%20to%20work-7c3aed?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📍%20İzmir-1e1e2e?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/open%20to%20work-22c55e?style=flat&logoColor=white"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sena-aslı-türk-561a012b8">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:senaslturk02@gmail.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=senasliturk&color=b06ef7&style=flat&label=profile+views"/>
 </p>
 
 ---
 
-### ✨ about me
+<!-- terminal about me with pacman -->
+### About Me
 
-```python
-sena = {
-  "role"     : "AI Engineer / Software Engineering Graduate",
-  "location" : "İzmir → İstanbul",
-  "focus"    : ["LLM apps", "AI agents", "MCP servers"],
-  "stack"    : ["Python", "OpenAI API", "FastAPI", "React"],
-  "currently": "building things, breaking things, fixing things"
-}
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=500&color=F7C948&vCenter=true&width=160&height=120&lines=ᗧ···ᗣ+nom+nom;ᗧ····ᗣ+nom;ᗧ·····ᗣ;score%3A+9999" alt="pacman" />
+
+```bash
+┌──(sena㉿terminal)-[~]
+└─$ whoami
+
+  Role      : Junior Software Engineer
+  Location  : İzmir 
+  Focus     : LLM apps · AI agents · MCP servers
+  Stack     : Python · OpenAI API · FastAPI · React
+  Currently : building things, breaking things, fixing things 🔧
+
+┌──(sena㉿terminal)-[~]
+└─$ cat hobbies.txt
+
+   AI projeler geliştirmek
+   Hackathon'lara katılmak
+   Yeni teknolojiler denemek
 ```
 
 ---
 
-### 🚀 featured projects
+### Tech stack
 
-| proje | açıklama | teknolojiler |
-|-------|----------|--------------|
-| 🤖 **listing ai agent** | openai api ile akıllı ürün listeleme ajanı | python · node.js · openai api · react |
-| 📊 **agentic ai dashboard** | ai agent çerçevelerini karşılaştıran dashboard | python · streamlit · openai api · pandas |
-| 💼 **job search app** | full-stack iş arama uygulaması | next.js · fastapi · typescript · docker |
-| 🗺️ **izmir 3d fire risk map** | 3 boyutlu yangın risk haritası | three.js · python · webgl |
-| 👁️ **automated safety control** | kamera ile ppe tespiti (staj projesi) | python · opencv · tensorflow |
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+      <br><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+      <br><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+      <br><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/>
+      <br><sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/>
+      <br><sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+      <br><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js"/>
+      <br><sub><b>Three.js</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧰 tech stack
+### Featured projects
 
-<p>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Listing AI Agent</h3>
+      <p align="center">
+        OpenAI API ile akıllı ürün listeleme ajanı
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Agentic AI Dashboard</h3>
+      <p align="center">
+        AI agent çerçevelerini karşılaştıran dashboard
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💼 Job Search Application</h3>
+      <p align="center">
+        Full-stack iş arama uygulaması
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗺️ İzmir 3D Fire Risk Map</h3>
+      <p align="center">
+        3 boyutlu yangın risk haritası
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 github stats
+### Github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senasliturk&show_icons=true&theme=tokyonight&hide_border=true&title_color=b06ef7&icon_color=ec4899&text_color=ffffff&bg_color=0d1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senasliturk&layout=compact&theme=tokyonight&hide_border=true&title_color=b06ef7&text_color=ffffff&bg_color=0d1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=senasliturk&show_icons=true&theme=tokyonight&hide_border=true&title_color=b06ef7&icon_color=ec4899&bg_color=0d1117&text_color=c9d1d9&ring_color=b06ef7" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senasliturk&layout=compact&theme=tokyonight&hide_border=true&title_color=b06ef7&bg_color=0d1117&text_color=c9d1d9&langs_count=6" height="165"/>
 </p>
 
-<!-- 3D contribution graph -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=senasliturk&theme=tokyonight&hide_border=true&background=0d1117&ring=b06ef7&fire=ec4899&currStreakLabel=b06ef7" />
+</p>
+
+<!-- 3D contribution -->
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api/index?username=senasliturk&theme=purple_dark" width="100%"/>
 </p>
 
 ---
 
-<!-- snake animation -->
+<!-- snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/senasliturk/senasliturk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <i>"building things, breaking things, fixing things 🔧"</i>
 </p>
   
